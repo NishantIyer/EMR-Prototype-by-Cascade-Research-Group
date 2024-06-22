@@ -1,0 +1,62 @@
+{
+    "A1": {
+        "bounding_box": [
+            16,
+            104,
+            249,
+            177
+        ],
+        "eid": "EID186",
+        "name": "chat1"
+    },
+    "A2": {
+        "bounding_box": [
+            26,
+            213,
+            245,
+            292
+        ],
+        "eid": "EID187",
+        "name": "chat2"
+    },
+    "A3": {
+        "bounding_box": [
+            23,
+            335,
+            239,
+            395
+        ],
+        "eid": "EID188",
+        "name": "chat3"
+    },
+    "A4": {
+        "bounding_box": [
+            22,
+            440,
+            244,
+            515
+        ],
+        "eid": "EID189",
+        "name": "chat4"
+    },
+    "A5": {
+        "bounding_box": [
+            353,
+            89,
+            1261,
+            133
+        ],
+        "eid": "EID190",
+        "name": "head"
+    },
+    "A6": {
+        "bounding_box": [
+            345,
+            159,
+            1248,
+            532
+        ],
+        "eid": "EID191",
+        "name": "body"
+    }
+}

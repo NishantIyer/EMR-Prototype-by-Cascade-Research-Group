@@ -1,0 +1,24 @@
+[
+    {
+        "bounding_box": [
+            514,
+            546,
+            737,
+            597
+        ],
+        "eid": "EID37",
+        "associated_tid": "T2",
+        "name": "luberaplus"
+    },
+    {
+        "bounding_box": [
+            519,
+            542,
+            736,
+            600
+        ],
+        "eid": "EID212",
+        "associated_tid": "T2",
+        "name": "luberaplus"
+    }
+]

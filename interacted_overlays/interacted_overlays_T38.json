@@ -1,0 +1,32 @@
+[
+    {
+        "bounding_box": [
+            902,
+            123,
+            1054,
+            147
+        ],
+        "eid": "EID257",
+        "name": "name"
+    },
+    {
+        "bounding_box": [
+            1092,
+            121,
+            1235,
+            143
+        ],
+        "eid": "EID258",
+        "name": "last"
+    },
+    {
+        "bounding_box": [
+            1006,
+            270,
+            1241,
+            297
+        ],
+        "eid": "EID259",
+        "name": "phone"
+    }
+]

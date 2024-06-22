@@ -1,0 +1,13 @@
+[
+    {
+        "bounding_box": [
+            4,
+            211,
+            613,
+            364
+        ],
+        "eid": "EID42",
+        "associated_tid": "T7",
+        "name": "booting"
+    }
+]

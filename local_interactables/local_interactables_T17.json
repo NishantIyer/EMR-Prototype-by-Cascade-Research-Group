@@ -1,0 +1,101 @@
+[
+    {
+        "bounding_box": [
+            350,
+            159,
+            1243,
+            531
+        ],
+        "eid": "EID144",
+        "associated_tid": null,
+        "name": "body"
+    },
+    {
+        "bounding_box": [
+            100,
+            20,
+            182,
+            30
+        ],
+        "eid": "EID147",
+        "associated_tid": "T18",
+        "name": "contacts"
+    },
+    {
+        "bounding_box": [
+            235,
+            23,
+            300,
+            32
+        ],
+        "eid": "EID148",
+        "associated_tid": "T19",
+        "name": "groups"
+    },
+    {
+        "bounding_box": [
+            336,
+            20,
+            445,
+            34
+        ],
+        "eid": "EID149",
+        "associated_tid": "T20",
+        "name": "operations"
+    },
+    {
+        "bounding_box": [
+            27,
+            103,
+            249,
+            176
+        ],
+        "eid": "EID178",
+        "associated_tid": "T17",
+        "name": "contact1"
+    },
+    {
+        "bounding_box": [
+            29,
+            219,
+            239,
+            284
+        ],
+        "eid": "EID179",
+        "associated_tid": "T17",
+        "name": "contact2"
+    },
+    {
+        "bounding_box": [
+            21,
+            330,
+            247,
+            396
+        ],
+        "eid": "EID180",
+        "associated_tid": "T17",
+        "name": "contact3"
+    },
+    {
+        "bounding_box": [
+            25,
+            438,
+            238,
+            514
+        ],
+        "eid": "EID181",
+        "associated_tid": "T17",
+        "name": "contact4"
+    },
+    {
+        "bounding_box": [
+            1055,
+            652,
+            1106,
+            707
+        ],
+        "eid": "EID182",
+        "associated_tid": "T17",
+        "name": "send"
+    }
+]

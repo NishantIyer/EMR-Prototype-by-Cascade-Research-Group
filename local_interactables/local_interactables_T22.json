@@ -1,0 +1,35 @@
+[
+    {
+        "bounding_box": [
+            119,
+            21,
+            168,
+            34
+        ],
+        "eid": "EID186",
+        "associated_tid": "T22",
+        "name": "chat"
+    },
+    {
+        "bounding_box": [
+            217,
+            19,
+            286,
+            32
+        ],
+        "eid": "EID187",
+        "associated_tid": "T23",
+        "name": "history"
+    },
+    {
+        "bounding_box": [
+            1060,
+            652,
+            1112,
+            695
+        ],
+        "eid": "EID190",
+        "associated_tid": "T22",
+        "name": "send"
+    }
+]

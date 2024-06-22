@@ -1,0 +1,57 @@
+[
+    {
+        "bounding_box": [
+            94,
+            18,
+            186,
+            36
+        ],
+        "eid": "EID150",
+        "associated_tid": "T18",
+        "name": "contacts"
+    },
+    {
+        "bounding_box": [
+            233,
+            23,
+            303,
+            31
+        ],
+        "eid": "EID151",
+        "associated_tid": "T19",
+        "name": "groups"
+    },
+    {
+        "bounding_box": [
+            336,
+            22,
+            444,
+            32
+        ],
+        "eid": "EID152",
+        "associated_tid": "T20",
+        "name": "operations"
+    },
+    {
+        "bounding_box": [
+            487,
+            17,
+            523,
+            34
+        ],
+        "eid": "EID153",
+        "associated_tid": "T21",
+        "name": "rss"
+    },
+    {
+        "bounding_box": [
+            120,
+            317,
+            447,
+            407
+        ],
+        "eid": "EID157",
+        "associated_tid": "T18",
+        "name": "contact4"
+    }
+]

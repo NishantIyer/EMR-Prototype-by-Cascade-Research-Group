@@ -1,0 +1,68 @@
+[
+    {
+        "bounding_box": [
+            459,
+            178,
+            603,
+            318
+        ],
+        "eid": "EID83",
+        "associated_tid": "T24",
+        "name": "emr"
+    },
+    {
+        "bounding_box": [
+            663,
+            177,
+            811,
+            321
+        ],
+        "eid": "EID84",
+        "associated_tid": "T16",
+        "name": "messenger"
+    },
+    {
+        "bounding_box": [
+            460,
+            382,
+            609,
+            517
+        ],
+        "eid": "EID85",
+        "associated_tid": "T13",
+        "name": "files"
+    },
+    {
+        "bounding_box": [
+            680,
+            397,
+            789,
+            503
+        ],
+        "eid": "EID86",
+        "associated_tid": "T12",
+        "name": "others"
+    },
+    {
+        "bounding_box": [
+            828,
+            183,
+            1276,
+            738
+        ],
+        "eid": "EID88",
+        "associated_tid": "T8",
+        "name": "unclick2"
+    },
+    {
+        "bounding_box": [
+            319,
+            566,
+            864,
+            704
+        ],
+        "eid": "EID89",
+        "associated_tid": "T8",
+        "name": "unclick3"
+    }
+]

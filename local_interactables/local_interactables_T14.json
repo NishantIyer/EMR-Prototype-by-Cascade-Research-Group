@@ -1,0 +1,90 @@
+[
+    {
+        "bounding_box": [
+            5,
+            128,
+            483,
+            214
+        ],
+        "eid": "EID123",
+        "associated_tid": "T15",
+        "name": "file1"
+    },
+    {
+        "bounding_box": [
+            6,
+            226,
+            476,
+            297
+        ],
+        "eid": "EID124",
+        "associated_tid": "T15",
+        "name": "file2"
+    },
+    {
+        "bounding_box": [
+            6,
+            314,
+            478,
+            394
+        ],
+        "eid": "EID125",
+        "associated_tid": "T15",
+        "name": "file3"
+    },
+    {
+        "bounding_box": [
+            3,
+            411,
+            476,
+            502
+        ],
+        "eid": "EID126",
+        "associated_tid": "T15",
+        "name": "file4"
+    },
+    {
+        "bounding_box": [
+            8,
+            522,
+            478,
+            596
+        ],
+        "eid": "EID127",
+        "associated_tid": "T15",
+        "name": "fle5"
+    },
+    {
+        "bounding_box": [
+            94,
+            20,
+            212,
+            33
+        ],
+        "eid": "EID128",
+        "associated_tid": "T13",
+        "name": "files"
+    },
+    {
+        "bounding_box": [
+            1131,
+            659,
+            1198,
+            691
+        ],
+        "eid": "EID129",
+        "associated_tid": "T14",
+        "name": "next"
+    },
+    {
+        "bounding_box": [
+            13,
+            656,
+            79,
+            676
+        ],
+        "eid": "EID130",
+        "associated_tid": "T13",
+        "name": "back"
+    }
+]

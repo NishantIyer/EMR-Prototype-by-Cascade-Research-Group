@@ -1,0 +1,90 @@
+[
+    {
+        "bounding_box": [
+            12,
+            105,
+            253,
+            177
+        ],
+        "eid": "EID170",
+        "associated_tid": "T19",
+        "name": "chat1"
+    },
+    {
+        "bounding_box": [
+            16,
+            213,
+            249,
+            290
+        ],
+        "eid": "EID171",
+        "associated_tid": "T19",
+        "name": "chat2"
+    },
+    {
+        "bounding_box": [
+            15,
+            327,
+            254,
+            409
+        ],
+        "eid": "EID172",
+        "associated_tid": "T19",
+        "name": "chat3"
+    },
+    {
+        "bounding_box": [
+            15,
+            445,
+            251,
+            513
+        ],
+        "eid": "EID173",
+        "associated_tid": "T19",
+        "name": "chat4"
+    },
+    {
+        "bounding_box": [
+            100,
+            23,
+            184,
+            33
+        ],
+        "eid": "EID174",
+        "associated_tid": "T18",
+        "name": "contacts"
+    },
+    {
+        "bounding_box": [
+            334,
+            22,
+            441,
+            34
+        ],
+        "eid": "EID175",
+        "associated_tid": "T21",
+        "name": "operations"
+    },
+    {
+        "bounding_box": [
+            484,
+            20,
+            515,
+            33
+        ],
+        "eid": "EID176",
+        "associated_tid": "T21",
+        "name": "rss"
+    },
+    {
+        "bounding_box": [
+            1060,
+            651,
+            1111,
+            696
+        ],
+        "eid": "EID177",
+        "associated_tid": "T19",
+        "name": "send"
+    }
+]

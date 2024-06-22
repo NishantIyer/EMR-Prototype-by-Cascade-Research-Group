@@ -1,0 +1,202 @@
+{
+    "A1": {
+        "bounding_box": [
+            3,
+            124,
+            478,
+            215
+        ],
+        "eid": "EID103",
+        "name": "name1"
+    },
+    "A2": {
+        "bounding_box": [
+            491,
+            131,
+            652,
+            215
+        ],
+        "eid": "EID104",
+        "name": "type1"
+    },
+    "A3": {
+        "bounding_box": [
+            659,
+            127,
+            848,
+            212
+        ],
+        "eid": "EID105",
+        "name": "size1"
+    },
+    "A4": {
+        "bounding_box": [
+            859,
+            129,
+            1196,
+            216
+        ],
+        "eid": "EID106",
+        "name": "date1"
+    },
+    "A5": {
+        "bounding_box": [
+            4,
+            224,
+            475,
+            299
+        ],
+        "eid": "EID107",
+        "name": "name2"
+    },
+    "A6": {
+        "bounding_box": [
+            489,
+            225,
+            652,
+            304
+        ],
+        "eid": "EID108",
+        "name": "type2"
+    },
+    "A7": {
+        "bounding_box": [
+            660,
+            226,
+            850,
+            303
+        ],
+        "eid": "EID109",
+        "name": "size2"
+    },
+    "A8": {
+        "bounding_box": [
+            856,
+            223,
+            1196,
+            305
+        ],
+        "eid": "EID110",
+        "name": "date2"
+    },
+    "A9": {
+        "bounding_box": [
+            3,
+            311,
+            480,
+            398
+        ],
+        "eid": "EID111",
+        "name": "name3"
+    },
+    "A10": {
+        "bounding_box": [
+            490,
+            314,
+            651,
+            394
+        ],
+        "eid": "EID112",
+        "name": "type3"
+    },
+    "A11": {
+        "bounding_box": [
+            660,
+            311,
+            851,
+            396
+        ],
+        "eid": "EID113",
+        "name": "size3"
+    },
+    "A12": {
+        "bounding_box": [
+            862,
+            313,
+            1190,
+            398
+        ],
+        "eid": "EID114",
+        "name": "date3"
+    },
+    "A13": {
+        "bounding_box": [
+            5,
+            405,
+            478,
+            509
+        ],
+        "eid": "EID115",
+        "name": "name4"
+    },
+    "A14": {
+        "bounding_box": [
+            488,
+            405,
+            650,
+            508
+        ],
+        "eid": "EID116",
+        "name": "type4"
+    },
+    "A15": {
+        "bounding_box": [
+            659,
+            409,
+            848,
+            508
+        ],
+        "eid": "EID117",
+        "name": "size4"
+    },
+    "A16": {
+        "bounding_box": [
+            858,
+            406,
+            1193,
+            508
+        ],
+        "eid": "EID118",
+        "name": "date4"
+    },
+    "A17": {
+        "bounding_box": [
+            6,
+            516,
+            479,
+            604
+        ],
+        "eid": "EID119",
+        "name": "name5"
+    },
+    "A18": {
+        "bounding_box": [
+            487,
+            517,
+            652,
+            601
+        ],
+        "eid": "EID120",
+        "name": "type5"
+    },
+    "A19": {
+        "bounding_box": [
+            659,
+            520,
+            851,
+            601
+        ],
+        "eid": "EID121",
+        "name": "size5"
+    },
+    "A20": {
+        "bounding_box": [
+            858,
+            519,
+            1199,
+            603
+        ],
+        "eid": "EID122",
+        "name": "date5"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "A1": {
+        "bounding_box": [
+            1,
+            227,
+            293,
+            320
+        ],
+        "eid": "EID193",
+        "name": "conv1"
+    },
+    "A2": {
+        "bounding_box": [
+            3,
+            328,
+            290,
+            409
+        ],
+        "eid": "EID194",
+        "name": "conv2"
+    },
+    "A3": {
+        "bounding_box": [
+            10,
+            412,
+            288,
+            490
+        ],
+        "eid": "EID195",
+        "name": "conv3"
+    },
+    "A4": {
+        "bounding_box": [
+            5,
+            511,
+            287,
+            605
+        ],
+        "eid": "EID196",
+        "name": "conv4"
+    },
+    "A5": {
+        "bounding_box": [
+            5,
+            621,
+            291,
+            707
+        ],
+        "eid": "EID197",
+        "name": "conv5"
+    }
+}

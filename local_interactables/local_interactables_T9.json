@@ -1,0 +1,57 @@
+[
+    {
+        "bounding_box": [
+            379,
+            137,
+            964,
+            679
+        ],
+        "eid": "EID50",
+        "associated_tid": "T8",
+        "name": "unclick"
+    },
+    {
+        "bounding_box": [
+            1017,
+            147,
+            1241,
+            184
+        ],
+        "eid": "EID51",
+        "associated_tid": "T10",
+        "name": "not1"
+    },
+    {
+        "bounding_box": [
+            1021,
+            220,
+            1241,
+            249
+        ],
+        "eid": "EID52",
+        "associated_tid": "T10",
+        "name": "not2"
+    },
+    {
+        "bounding_box": [
+            1019,
+            281,
+            1237,
+            321
+        ],
+        "eid": "EID53",
+        "associated_tid": "T10",
+        "name": "not3"
+    },
+    {
+        "bounding_box": [
+            1026,
+            351,
+            1238,
+            394
+        ],
+        "eid": "EID54",
+        "associated_tid": "T10",
+        "name": "not4"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "bounding_box": [
+            340,
+            143,
+            540,
+            551
+        ],
+        "eid": "EID66",
+        "associated_tid": "T9",
+        "name": "unclick"
+    },
+    {
+        "bounding_box": [
+            565,
+            583,
+            979,
+            722
+        ],
+        "eid": "EID67",
+        "associated_tid": "T9",
+        "name": "unclick1"
+    },
+    {
+        "bounding_box": [
+            1017,
+            215,
+            1239,
+            251
+        ],
+        "eid": "EID69",
+        "associated_tid": "T8",
+        "name": "not2"
+    },
+    {
+        "bounding_box": [
+            1020,
+            281,
+            1242,
+            319
+        ],
+        "eid": "EID70",
+        "associated_tid": "T8",
+        "name": "not3"
+    }
+]

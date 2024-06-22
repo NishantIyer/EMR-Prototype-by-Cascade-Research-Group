@@ -1,0 +1,42 @@
+{
+    "A1": {
+        "bounding_box": [
+            18,
+            110,
+            239,
+            180
+        ],
+        "eid": "EID132",
+        "name": "chat1"
+    },
+    "A2": {
+        "bounding_box": [
+            25,
+            216,
+            237,
+            290
+        ],
+        "eid": "EID133",
+        "name": "chat2"
+    },
+    "A3": {
+        "bounding_box": [
+            20,
+            335,
+            246,
+            406
+        ],
+        "eid": "EID134",
+        "name": "chat3"
+    },
+    "A4": {
+        "bounding_box": [
+            22,
+            443,
+            240,
+            516
+        ],
+        "eid": "EID135",
+        "name": "chat4"
+    }
+}

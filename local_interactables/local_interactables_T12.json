@@ -1,0 +1,57 @@
+[
+    {
+        "bounding_box": [
+            583,
+            314,
+            835,
+            363
+        ],
+        "eid": "EID90",
+        "associated_tid": "T22",
+        "name": "gen"
+    },
+    {
+        "bounding_box": [
+            236,
+            411,
+            481,
+            452
+        ],
+        "eid": "EID91",
+        "associated_tid": "T21",
+        "name": "rss"
+    },
+    {
+        "bounding_box": [
+            226,
+            252,
+            487,
+            306
+        ],
+        "eid": "EID92",
+        "associated_tid": "T15",
+        "name": "repo"
+    },
+    {
+        "bounding_box": [
+            228,
+            536,
+            1218,
+            747
+        ],
+        "eid": "EID93",
+        "associated_tid": "T8",
+        "name": "unclick"
+    },
+    {
+        "bounding_box": [
+            202,
+            8,
+            1101,
+            168
+        ],
+        "eid": "EID94",
+        "associated_tid": "T8",
+        "name": "unclick2"
+    }
+]

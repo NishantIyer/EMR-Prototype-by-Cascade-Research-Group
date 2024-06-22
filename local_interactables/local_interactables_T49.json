@@ -1,0 +1,156 @@
+[
+    {
+        "bounding_box": [
+            251,
+            145,
+            375,
+            209
+        ],
+        "eid": "EID270",
+        "associated_tid": "T50",
+        "name": "company"
+    },
+    {
+        "bounding_box": [
+            416,
+            149,
+            535,
+            212
+        ],
+        "eid": "EID271",
+        "associated_tid": "T51",
+        "name": "product"
+    },
+    {
+        "bounding_box": [
+            585,
+            148,
+            708,
+            205
+        ],
+        "eid": "EID272",
+        "associated_tid": "T52",
+        "name": "unit"
+    },
+    {
+        "bounding_box": [
+            748,
+            150,
+            872,
+            205
+        ],
+        "eid": "EID273",
+        "associated_tid": "T53",
+        "name": "product"
+    },
+    {
+        "bounding_box": [
+            2,
+            76,
+            199,
+            101
+        ],
+        "eid": "EID230",
+        "associated_tid": "T29",
+        "name": "dashboard"
+    },
+    {
+        "bounding_box": [
+            4,
+            107,
+            197,
+            133
+        ],
+        "eid": "EID231",
+        "associated_tid": "T32",
+        "name": "calender"
+    },
+    {
+        "bounding_box": [
+            3,
+            141,
+            197,
+            167
+        ],
+        "eid": "EID232",
+        "associated_tid": "T37",
+        "name": "patients"
+    },
+    {
+        "bounding_box": [
+            5,
+            174,
+            196,
+            196
+        ],
+        "eid": "EID233",
+        "associated_tid": "T42",
+        "name": "reports"
+    },
+    {
+        "bounding_box": [
+            4,
+            204,
+            194,
+            230
+        ],
+        "eid": "EID234",
+        "associated_tid": "T43",
+        "name": "profile"
+    },
+    {
+        "bounding_box": [
+            7,
+            236,
+            195,
+            260
+        ],
+        "eid": "EID235",
+        "associated_tid": "T45",
+        "name": "workspace"
+    },
+    {
+        "bounding_box": [
+            4,
+            302,
+            197,
+            329
+        ],
+        "eid": "EID236",
+        "associated_tid": "T48",
+        "name": "inventory"
+    },
+    {
+        "bounding_box": [
+            3,
+            334,
+            198,
+            364
+        ],
+        "eid": "EID237",
+        "associated_tid": "T60",
+        "name": "lab"
+    },
+    {
+        "bounding_box": [
+            6,
+            368,
+            194,
+            393
+        ],
+        "eid": "EID238",
+        "associated_tid": "T63",
+        "name": "feedbacks"
+    },
+    {
+        "bounding_box": [
+            2,
+            400,
+            199,
+            428
+        ],
+        "eid": "EID239",
+        "associated_tid": "T64",
+        "name": "diag"
+    }
+]

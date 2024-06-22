@@ -1,0 +1,19 @@
+event: ns : Nanoseconds
+events: ns
+summary: 68023
+fl=<string>
+fn=<module>
+1 4910
+
+fl=~
+fn=<built-in method builtins.exec>
+0 63113
+cfl=<string>
+cfn=<module>
+calls=1 1
+0 4910
+
+fl=~
+fn=<method 'disable' of '_lsprof.Profiler' objects>
+0 335
+

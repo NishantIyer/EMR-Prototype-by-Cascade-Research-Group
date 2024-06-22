@@ -1,0 +1,162 @@
+{
+    "A1": {
+        "bounding_box": [
+            22,
+            440,
+            244,
+            515
+        ],
+        "eid": "EID142",
+        "name": "chat4"
+    },
+    "A2": {
+        "bounding_box": [
+            120,
+            203,
+            448,
+            291
+        ],
+        "eid": "EID154",
+        "name": "contact1"
+    },
+    "A3": {
+        "bounding_box": [
+            473,
+            205,
+            799,
+            293
+        ],
+        "eid": "EID155",
+        "name": "contact2"
+    },
+    "A4": {
+        "bounding_box": [
+            827,
+            205,
+            1153,
+            294
+        ],
+        "eid": "EID156",
+        "name": "contact3"
+    },
+    "A5": {
+        "bounding_box": [
+            121,
+            315,
+            447,
+            402
+        ],
+        "eid": "EID158",
+        "name": "contact4"
+    },
+    "A6": {
+        "bounding_box": [
+            471,
+            322,
+            796,
+            402
+        ],
+        "eid": "EID159",
+        "name": "contact5"
+    },
+    "A7": {
+        "bounding_box": [
+            825,
+            321,
+            1151,
+            408
+        ],
+        "eid": "EID160",
+        "name": "contact6"
+    },
+    "A8": {
+        "bounding_box": [
+            121,
+            432,
+            444,
+            522
+        ],
+        "eid": "EID161",
+        "name": "contact7"
+    },
+    "A9": {
+        "bounding_box": [
+            474,
+            435,
+            799,
+            518
+        ],
+        "eid": "EID162",
+        "name": "contact7"
+    },
+    "A10": {
+        "bounding_box": [
+            824,
+            438,
+            1154,
+            523
+        ],
+        "eid": "EID163",
+        "name": "contact8"
+    },
+    "A11": {
+        "bounding_box": [
+            122,
+            549,
+            444,
+            632
+        ],
+        "eid": "EID164",
+        "name": "contact10"
+    },
+    "A12": {
+        "bounding_box": [
+            472,
+            549,
+            803,
+            635
+        ],
+        "eid": "EID165",
+        "name": "contact11"
+    },
+    "A13": {
+        "bounding_box": [
+            826,
+            549,
+            1150,
+            630
+        ],
+        "eid": "EID166",
+        "name": "contact12"
+    },
+    "A14": {
+        "bounding_box": [
+            119,
+            547,
+            447,
+            638
+        ],
+        "eid": "EID167",
+        "name": "contact10"
+    },
+    "A15": {
+        "bounding_box": [
+            474,
+            553,
+            796,
+            635
+        ],
+        "eid": "EID168",
+        "name": "contact11"
+    },
+    "A16": {
+        "bounding_box": [
+            827,
+            551,
+            1148,
+            634
+        ],
+        "eid": "EID169",
+        "name": "contact12"
+    }
+}

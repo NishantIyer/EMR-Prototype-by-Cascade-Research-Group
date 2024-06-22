@@ -1,0 +1,79 @@
+[
+    {
+        "bounding_box": [
+            675,
+            140,
+            910,
+            185
+        ],
+        "eid": "EID95",
+        "associated_tid": "T14",
+        "name": "records"
+    },
+    {
+        "bounding_box": [
+            674,
+            220,
+            905,
+            264
+        ],
+        "eid": "EID96",
+        "associated_tid": "T14",
+        "name": "staff"
+    },
+    {
+        "bounding_box": [
+            674,
+            300,
+            907,
+            341
+        ],
+        "eid": "EID97",
+        "associated_tid": "T14",
+        "name": "admin"
+    },
+    {
+        "bounding_box": [
+            672,
+            381,
+            906,
+            423
+        ],
+        "eid": "EID98",
+        "associated_tid": "T14",
+        "name": "medical"
+    },
+    {
+        "bounding_box": [
+            674,
+            461,
+            910,
+            501
+        ],
+        "eid": "EID99",
+        "associated_tid": "T14",
+        "name": "dept"
+    },
+    {
+        "bounding_box": [
+            677,
+            536,
+            906,
+            576
+        ],
+        "eid": "EID100",
+        "associated_tid": "T14",
+        "name": "system"
+    },
+    {
+        "bounding_box": [
+            92,
+            18,
+            214,
+            31
+        ],
+        "eid": "EID101",
+        "associated_tid": "T13",
+        "name": "files"
+    }
+]

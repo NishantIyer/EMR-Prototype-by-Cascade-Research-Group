@@ -1,0 +1,35 @@
+[
+    {
+        "bounding_box": [
+            672,
+            543,
+            1001,
+            590
+        ],
+        "eid": "EID201",
+        "associated_tid": "T29",
+        "name": "login"
+    },
+    {
+        "bounding_box": [
+            851,
+            503,
+            1015,
+            515
+        ],
+        "eid": "EID204",
+        "associated_tid": "T26",
+        "name": "forgot"
+    },
+    {
+        "bounding_box": [
+            926,
+            621,
+            991,
+            633
+        ],
+        "eid": "EID205",
+        "associated_tid": "T27",
+        "name": "create"
+    }
+]
